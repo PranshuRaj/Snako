@@ -11,7 +11,7 @@ In this post, I am going to upload a game that i learned from youtube from CodeW
 I also make some changes and add some details to the game .
 
 Hope You all like it
-Link to the playlist:-https://youtube.com/playlist?list=PLu0W_9lII9ailUQcxEPZrWgDoL36BtPYb
+-Link to the playlist:-https://youtube.com/playlist?list=PLu0W_9lII9ailUQcxEPZrWgDoL36BtPYb
 
 ### Connect with me:
 
